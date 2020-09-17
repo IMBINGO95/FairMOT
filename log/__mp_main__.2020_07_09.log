@@ -1,7 +1,0 @@
-[33m[17:07:40] [SoftWare_main.py->Short_Track line:47] [!] The pid of Short_Track() : 40099[0m
-[33m[17:10:58] [SoftWare_main.py->Short_Track line:47] [!] The pid of Short_Track() : 40711[0m
-[33m[17:10:58] [SoftWare_main.py->Coordinate_transfer line:32] [!] The pid of Coordinate_transfer() : 40712[0m
-[33m[20:17:31] [SoftWare_main.py->Coordinate_transfer line:32] [!] The pid of Coordinate_transfer() : 42904[0m
-[33m[20:17:31] [SoftWare_main.py->Short_Track line:47] [!] The pid of Short_Track() : 42903[0m
-[33m[20:31:15] [SoftWare_main.py] [!] The pid of Short_Track() : 44712[0m
-[33m[20:31:15] [SoftWare_main.py] [!] The pid of Coordinate_transfer() : 44713[0m

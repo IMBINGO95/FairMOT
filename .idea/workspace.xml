@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a36b63d-7bf6-4144-965a-8245e3a27138" name="Default Changelist" comment="renew README.md" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c6lPjB5wWG7Ga7EC27nRTH9hsk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\code\FairMOT-master\config" />
+      <recent name="F:\code\FairMOT-master\utils_BINGO" />
+      <recent name="F:\code\FairMOT-master" />
+      <recent name="F:\code\FairMOT-master\config\SVHN" />
+      <recent name="F:\code\FairMOT-master\alphapose" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\code\FairMOT-master" />
+      <recent name="F:\code\FairMOT-master\config" />
+      <recent name="F:\code\FairMOT-master\ReID_model" />
+      <recent name="F:\code\FairMOT-master\ReID" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.SoftWare_main">
+    <configuration name="SoftWare_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FairMOT-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SoftWare_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cluster_main_imgs_by_ReID" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FairMOT-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils_BINGO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils_BINGO/cluster_main_imgs_by_ReID.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataset_loader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FairMOT-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ReID_model/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReID_model/utils/dataset_loader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eval_AI_result" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FairMOT-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils_BINGO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils_BINGO/eval_AI_result.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="opt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FairMOT-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SoftWare_main" />
+        <item itemvalue="Python.opt" />
+        <item itemvalue="Python.eval_AI_result" />
+        <item itemvalue="Python.dataset_loader" />
+        <item itemvalue="Python.cluster_main_imgs_by_ReID" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a36b63d-7bf6-4144-965a-8245e3a27138" name="Default Changelist" comment="" />
+      <created>1589856901112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589856901112</updated>
+      <workItem from="1589856904232" duration="1710000" />
+      <workItem from="1589958982657" duration="11584000" />
+      <workItem from="1590746298844" duration="3888000" />
+      <workItem from="1591189239689" duration="5987000" />
+      <workItem from="1591680575183" duration="18698000" />
+      <workItem from="1591837094382" duration="6930000" />
+      <workItem from="1591929531716" duration="10370000" />
+      <workItem from="1592794243164" duration="100180000" />
+      <workItem from="1594091491415" duration="82557000" />
+      <workItem from="1594611767490" duration="1218000" />
+      <workItem from="1594872360426" duration="390000" />
+      <workItem from="1594874056829" duration="1709000" />
+      <workItem from="1594997536995" duration="8254000" />
+      <workItem from="1595654910809" duration="1070000" />
+      <workItem from="1596107404638" duration="274000" />
+      <workItem from="1596107838962" duration="5314000" />
+      <workItem from="1596162152825" duration="80539000" />
+      <workItem from="1597201643702" duration="77078000" />
+      <workItem from="1597564607377" duration="9568000" />
+      <workItem from="1597628599127" duration="41440000" />
+      <workItem from="1597749478368" duration="28000" />
+      <workItem from="1597822545483" duration="16457000" />
+      <workItem from="1598318142175" duration="7830000" />
+      <workItem from="1599011137494" duration="1879000" />
+      <workItem from="1599275857968" duration="1830000" />
+      <workItem from="1599284521040" duration="227000" />
+      <workItem from="1599285010932" duration="338000" />
+      <workItem from="1599288410769" duration="10849000" />
+      <workItem from="1599370307417" duration="10140000" />
+      <workItem from="1599468649390" duration="14597000" />
+      <workItem from="1599546554364" duration="25280000" />
+      <workItem from="1599707905747" duration="4185000" />
+      <workItem from="1599877698169" duration="3498000" />
+      <workItem from="1599909055335" duration="980000" />
+      <workItem from="1599911912524" duration="384000" />
+      <workItem from="1599914733668" duration="2283000" />
+      <workItem from="1599958847413" duration="2637000" />
+      <workItem from="1600305015783" duration="4254000" />
+      <workItem from="1600312225237" duration="2222000" />
+    </task>
+    <task id="LOCAL-00001" summary="All this files are added by pycharm">
+      <created>1600306574870</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600306574870</updated>
+    </task>
+    <task id="LOCAL-00002" summary="delete t.py">
+      <created>1600308214088</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600308214088</updated>
+    </task>
+    <task id="LOCAL-00003" summary="renew README.md">
+      <created>1600313329431</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600313329431</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+        <entry key="2" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All this files are added by pycharm" />
+    <MESSAGE value="delete t.py" />
+    <MESSAGE value="renew README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="renew README.md" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="173" key="#Deployment" timestamp="1597723985167">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="173" key="#Deployment/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597723985167" />
+    <state x="524" y="148" key="#SSH_Configurations" timestamp="1597723983502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="524" y="148" key="#SSH_Configurations/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597723983502" />
+    <state x="678" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599356583272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="320" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599356583272" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1594603193158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594603193158" />
+    <state x="740" y="275" width="440" height="575" key="FileChooserDialogImpl" timestamp="1600311731846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595246813114" />
+    <state x="740" y="275" width="440" height="575" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600311731846" />
+    <state x="2660" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1599980616673" />
+    <state width="1542" height="779" key="GridCell.Tab.0.bottom" timestamp="1600314444577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594453705680" />
+    <state width="1542" height="822" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599709077198" />
+    <state width="1542" height="779" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600314444577" />
+    <state width="1542" height="779" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1600314321587" />
+    <state width="1542" height="779" key="GridCell.Tab.0.center" timestamp="1600314444577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594453705680" />
+    <state width="1542" height="822" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599709077198" />
+    <state width="1542" height="779" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600314444577" />
+    <state width="1542" height="779" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1600314321587" />
+    <state width="1542" height="779" key="GridCell.Tab.0.left" timestamp="1600314444577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594453705680" />
+    <state width="1542" height="822" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599709077198" />
+    <state width="1542" height="779" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600314444577" />
+    <state width="1542" height="779" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1600314321587" />
+    <state width="1542" height="779" key="GridCell.Tab.0.right" timestamp="1600314444577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594453705680" />
+    <state width="1542" height="822" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599709077198" />
+    <state width="1542" height="779" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600314444577" />
+    <state width="1542" height="779" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1600314321587" />
+    <state width="1877" height="2" key="GridCell.Tab.1.bottom" timestamp="1599635785682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594453284463" />
+    <state width="1877" height="441" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596253846844" />
+    <state width="1877" height="2" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599635785682" />
+    <state width="1877" height="266" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1599380793092" />
+    <state width="1877" height="2" key="GridCell.Tab.1.center" timestamp="1599635785682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594453284463" />
+    <state width="1877" height="441" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596253846844" />
+    <state width="1877" height="2" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599635785682" />
+    <state width="1877" height="266" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1599380793092" />
+    <state width="1877" height="2" key="GridCell.Tab.1.left" timestamp="1599635785682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594453284463" />
+    <state width="1877" height="441" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596253846844" />
+    <state width="1877" height="2" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599635785682" />
+    <state width="1877" height="266" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1599380793092" />
+    <state width="1877" height="2" key="GridCell.Tab.1.right" timestamp="1599635785682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594453284463" />
+    <state width="1877" height="441" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596253846844" />
+    <state width="1877" height="2" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599635785682" />
+    <state width="1877" height="266" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1599380793092" />
+    <state x="387" y="159" width="1083" height="711" key="SettingsEditor" timestamp="1600306350175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="387" y="159" width="1083" height="711" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600306350175" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600313336141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600313336141" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1599357558761">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599357558761" />
+    <state x="535" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593570792595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="535" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593570792595" />
+    <state x="504" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599878460854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="504" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599878460854" />
+    <state x="2424" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1593568621212" />
+    <state x="137" y="108" width="1591" height="951" key="dock-window-1" timestamp="1599621258088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1892" y="213" width="1463" height="782" maximized="true" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1594436775923" />
+    <state x="137" y="108" width="1591" height="951" key="dock-window-1/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599621258088" />
+    <state x="105" y="342" width="1463" height="782" maximized="true" key="dock-window-1/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1594351158291" />
+    <state x="2582" y="252" width="596" height="596" key="find.popup" timestamp="1599915699947">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="252" width="596" height="596" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595002247722" />
+    <state x="662" y="252" width="596" height="596" key="find.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599378295603" />
+    <state x="2582" y="252" width="596" height="596" key="find.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1599915699947" />
+    <state x="840" y="249" width="378" height="539" key="ftp.server.browser" timestamp="1595655178845">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="840" y="249" width="378" height="539" key="ftp.server.browser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595655178845" />
+    <state x="666" y="307" key="git4idea.merge.GitPullDialog" timestamp="1600312255614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="307" key="git4idea.merge.GitPullDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600312255614" />
+    <state x="800" y="291" key="refactoring.ChangeSignatureDialog" timestamp="1599528095401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="800" y="291" key="refactoring.ChangeSignatureDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599528095401" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599547270216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594449382423" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599547270216" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FairMot/lib/models/networks/DCNv2_new/setup.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FairMot/lib/datasets/dataset/jde.py</url>
+          <line>344</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CalibrateTransfer/img_operation.py</url>
+          <line>551</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftWare_main_backup.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FairMot/track.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FairMot/track.py</url>
+          <line>166</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/sort_by_point.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FairMot/track.py</url>
+          <line>142</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CalibrateTransfer/cv_transfer.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FairMot/lib/datasets/dataset/jde.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FairMot/track.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FairMot/train.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FairMot/track.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/alphapose/img_operation.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ReID_model/imgs_sort_by_ReID.py</url>
+          <line>137</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ReID_model/imgs_sort_by_ReID.py</url>
+          <line>162</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils_BINGO/Rectify_Json_file.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/alphapose/utils/config.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SVHN/core.py</url>
+          <line>345</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SVHN/core.py</url>
+          <line>268</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils_BINGO/eval_AI_result.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils_BINGO/Number_Rectifier.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils_BINGO/Number_Rectifier.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SVHN/core.py</url>
+          <line>181</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SoftWare_main.py</url>
+          <line>167</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ReID_model/utils/dataset_loader.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="topk_inds" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FairMOT_master$timer.coverage" NAME="timer Coverage Results" MODIFIED="1597311737667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$imgs_sort_by_ReID.coverage" NAME="imgs_sort_by_ReID Coverage Results" MODIFIED="1598261951810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils_BINGO" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$config.coverage" NAME="config Coverage Results" MODIFIED="1599358012348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alphapose/utils" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$sort_by_point.coverage" NAME="sort_by_point Coverage Results" MODIFIED="1593506137600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$Delete_vis.coverage" NAME="Delete_vis Coverage Results" MODIFIED="1597836933926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils_BINGO" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$t.coverage" NAME="t Coverage Results" MODIFIED="1599380791658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$pytest_in_test_log_py.coverage" NAME="pytest in test_log.py Coverage Results" MODIFIED="1594258798596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$gen_labels_20.coverage" NAME="gen_labels_20 Coverage Results" MODIFIED="1590029548240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$img_preprocess.coverage" NAME="img_preprocess Coverage Results" MODIFIED="1597657009782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CalibrateTransfer" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$generate_four_officials_report.coverage" NAME="generate_four_officials_report Coverage Results" MODIFIED="1597838687401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils_BINGO" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$img_operation.coverage" NAME="img_operation Coverage Results" MODIFIED="1596182363011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alphapose" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$Fair_Detection.coverage" NAME="Fair-Detection Coverage Results" MODIFIED="1594997665635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$cv_transfer.coverage" NAME="cv_transfer Coverage Results" MODIFIED="1594103692667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CalibrateTransfer" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$Loader.coverage" NAME="Loader Coverage Results" MODIFIED="1594453414320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FairMot/utils" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$imgs_sort_by_ReID__1_.coverage" NAME="imgs_sort_by_ReID (1) Coverage Results" MODIFIED="1598261975647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ReID_model" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$opt.coverage" NAME="opt Coverage Results" MODIFIED="1599573418759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$Write_Config__1_.coverage" NAME="Write_Config (1) Coverage Results" MODIFIED="1599360322610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$track.coverage" NAME="track Coverage Results" MODIFIED="1593509101670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1595655195556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$eval_AI_result.coverage" NAME="eval_AI_result Coverage Results" MODIFIED="1599978595759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils_BINGO" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$SoftWare_main.coverage" NAME="SoftWare_main Coverage Results" MODIFIED="1600314469621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$setup.coverage" NAME="setup Coverage Results" MODIFIED="1589959948433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/lib/models/networks/DCNv2_new" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$Short_tracking.coverage" NAME="Short_tracking Coverage Results" MODIFIED="1593747494319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$Rectify_Json_file.coverage" NAME="Rectify_Json_file Coverage Results" MODIFIED="1597721566031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils_BINGO" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$demo.coverage" NAME="demo Coverage Results" MODIFIED="1594999018159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FairMot" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$data_preprocess.coverage" NAME="data_preprocess Coverage Results" MODIFIED="1599552778781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CalibrateTransfer" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$Sacred.coverage" NAME="Sacred Coverage Results" MODIFIED="1590045173885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$gen_labels_15.coverage" NAME="gen_labels_15 Coverage Results" MODIFIED="1590029380109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$model.coverage" NAME="model Coverage Results" MODIFIED="1594452841895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FairMot/lib/models" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$SoftWare_main_backup.coverage" NAME="SoftWare_main_backup Coverage Results" MODIFIED="1597323758480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$cluster_main_imgs_by_ReID.coverage" NAME="cluster_main_imgs_by_ReID Coverage Results" MODIFIED="1599579720309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils_BINGO" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$log_testing.coverage" NAME="log_testing Coverage Results" MODIFIED="1594259033012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$_init_paths.coverage" NAME="_init_paths Coverage Results" MODIFIED="1591681041788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$Write_Config.coverage" NAME="Write_Config Coverage Results" MODIFIED="1599360163194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$log.coverage" NAME="log Coverage Results" MODIFIED="1594258567373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/FairMOT_master$dataset_loader.coverage" NAME="dataset_loader Coverage Results" MODIFIED="1599576285095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ReID_model/utils" />
+  </component>
+</project>
