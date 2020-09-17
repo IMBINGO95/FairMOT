@@ -1,0 +1,124 @@
+[10:02:50] [SoftWare_main.py] [INFO] The pid of mian() : 41356[0m
+[10:02:50] [SoftWare_main.py] [INFO] The thread of mian() : <_MainThread(MainThread, started 139880001701632)>[0m
+[33m[10:02:50] [SoftWare_main.py] [!] The FMLoader model has been calculated to step 220 [0m
+[33m[10:02:50] [SoftWare_main.py] [!] The Calibrate_transfer model has been calculated to step 0 [0m
+[33m[10:02:50] [SoftWare_main.py] [!] The Alphapose model has been calculated to step 0 [0m
+[33m[10:02:50] [SoftWare_main.py] [!] The SVHN_Predict model has been calculated to step 0 [0m
+[10:03:29] [SoftWare_main.py] [INFO] The pid of mian() : 42151[0m
+[10:03:29] [SoftWare_main.py] [INFO] The thread of mian() : <_MainThread(MainThread, started 140673885009664)>[0m
+[33m[10:03:29] [SoftWare_main.py] [!] The FMLoader model has been calculated to step 533 [0m
+[33m[10:03:29] [SoftWare_main.py] [!] The Calibrate_transfer model has been calculated to step 0 [0m
+[33m[10:03:29] [SoftWare_main.py] [!] The Alphapose model has been calculated to step 0 [0m
+[33m[10:03:29] [SoftWare_main.py] [!] The SVHN_Predict model has been calculated to step 0 [0m
+[33m[10:03:42] [SoftWare_main.py] [!] ----------------Finished tracker process----------------[0m
+[33m[10:04:15] [SoftWare_main.py] [!] ----------------Finished tracker process----------------[0m
+[31m[10:04:15] [SoftWare_main.py] [*] main function consums 0:0:45[0m
+[10:06:50] [SoftWare_main.py] [INFO] The pid of mian() : 42572[0m
+[10:06:50] [SoftWare_main.py] [INFO] The thread of mian() : <_MainThread(MainThread, started 140715848148736)>[0m
+[33m[10:06:50] [SoftWare_main.py] [!] The FMLoader model has been calculated to step 0 [0m
+[33m[10:06:50] [SoftWare_main.py] [!] The Calibrate_transfer model has been calculated to step 0 [0m
+[33m[10:06:50] [SoftWare_main.py] [!] The Alphapose model has been calculated to step 0 [0m
+[33m[10:06:50] [SoftWare_main.py] [!] The SVHN_Predict model has been calculated to step 0 [0m
+[33m[10:26:23] [SoftWare_main.py] [!] ----------------Finished tracker process----------------[0m
+[31m[10:26:23] [SoftWare_main.py] [*] main function consums 0:19:33[0m
+[10:27:31] [SoftWare_main.py] [INFO] The pid of mian() : 43078[0m
+[10:27:31] [SoftWare_main.py] [INFO] The thread of mian() : <_MainThread(MainThread, started 140247060920064)>[0m
+[33m[10:27:32] [SoftWare_main.py] [!] The FMLoader model has been calculated to step 679 [0m
+[33m[10:27:32] [SoftWare_main.py] [!] The Calibrate_transfer model has been calculated to step 0 [0m
+[33m[10:27:32] [SoftWare_main.py] [!] The Alphapose model has been calculated to step 0 [0m
+[33m[10:27:32] [SoftWare_main.py] [!] The SVHN_Predict model has been calculated to step 0 [0m
+[33m[10:29:12] [SoftWare_main.py] [!] ----------------Finished tracker process----------------[0m
+[10:31:04] [SoftWare_main.py] [INFO] The pid of mian() : 43652[0m
+[10:31:04] [SoftWare_main.py] [INFO] The thread of mian() : <_MainThread(MainThread, started 139768338691840)>[0m
+[33m[10:31:04] [SoftWare_main.py] [!] The FMLoader model has been calculated to step 0 [0m
+[33m[10:31:04] [SoftWare_main.py] [!] The Calibrate_transfer model has been calculated to step 0 [0m
+[33m[10:31:04] [SoftWare_main.py] [!] The Alphapose model has been calculated to step 0 [0m
+[33m[10:31:04] [SoftWare_main.py] [!] The SVHN_Predict model has been calculated to step 0 [0m
+[36m[10:31:04] [SoftWare_main.py] [>] The pid of Short_Track() : 43652[0m
+[10:32:28] [SoftWare_main.py] [INFO] The pid of mian() : 44047[0m
+[10:32:28] [SoftWare_main.py] [INFO] The thread of mian() : <_MainThread(MainThread, started 140455186339584)>[0m
+[33m[10:32:28] [SoftWare_main.py] [!] The FMLoader model has been calculated to step 0 [0m
+[33m[10:32:28] [SoftWare_main.py] [!] The Calibrate_transfer model has been calculated to step 0 [0m
+[33m[10:32:28] [SoftWare_main.py] [!] The Alphapose model has been calculated to step 0 [0m
+[33m[10:32:28] [SoftWare_main.py] [!] The SVHN_Predict model has been calculated to step 0 [0m
+[36m[10:32:28] [SoftWare_main.py] [>] The pid of Short_Track() : 44047[0m
+[10:33:49] [SoftWare_main.py] [INFO] The pid of mian() : 44461[0m
+[10:33:49] [SoftWare_main.py] [INFO] The thread of mian() : <_MainThread(MainThread, started 140283711117056)>[0m
+[33m[10:33:49] [SoftWare_main.py] [!] The FMLoader model has been calculated to step 679 [0m
+[33m[10:33:49] [SoftWare_main.py] [!] The Calibrate_transfer model has been calculated to step 0 [0m
+[33m[10:33:49] [SoftWare_main.py] [!] The Alphapose model has been calculated to step 0 [0m
+[33m[10:33:49] [SoftWare_main.py] [!] The SVHN_Predict model has been calculated to step 0 [0m
+[36m[10:33:49] [SoftWare_main.py] [>] The pid of Short_Track() : 44461[0m
+[36m[10:34:08] [SoftWare_main.py] [>] ----------------Finished Tracker.t_update()----------------[0m
+[36m[10:34:08] [SoftWare_main.py] [>] ----------------Finished Tracker.t_PostProcess() datalen = 680-------[0m
+[32m[10:34:08] [SoftWare_main.py] [-] The pid of Coordinate_transfer() : 44461[0m
+[10:43:25] [SoftWare_main.py] [INFO] The pid of mian() : 44997[0m
+[10:43:25] [SoftWare_main.py] [INFO] The thread of mian() : <_MainThread(MainThread, started 140128933353216)>[0m
+[33m[10:43:30] [SoftWare_main.py] [!] The FMLoader model has been calculated to step 679 [0m
+[33m[10:43:30] [SoftWare_main.py] [!] The Calibrate_transfer model has been calculated to step 0 [0m
+[33m[10:43:30] [SoftWare_main.py] [!] The Alphapose model has been calculated to step 0 [0m
+[33m[10:43:30] [SoftWare_main.py] [!] The SVHN_Predict model has been calculated to step 0 [0m
+[33m[10:43:30] [SoftWare_main.py] [!] ----------------Finished tracker process----------------[0m
+[36m[10:43:30] [SoftWare_main.py] [>] The pid of Short_Track() : 44997[0m
+[10:43:43] [SoftWare_main.py] [INFO] The pid of mian() : 45275[0m
+[10:43:43] [SoftWare_main.py] [INFO] The thread of mian() : <_MainThread(MainThread, started 140706121955072)>[0m
+[33m[10:43:46] [SoftWare_main.py] [!] The FMLoader model has been calculated to step 533 [0m
+[33m[10:43:46] [SoftWare_main.py] [!] The Calibrate_transfer model has been calculated to step 0 [0m
+[33m[10:43:46] [SoftWare_main.py] [!] The Alphapose model has been calculated to step 0 [0m
+[33m[10:43:46] [SoftWare_main.py] [!] The SVHN_Predict model has been calculated to step 0 [0m
+[33m[10:43:46] [SoftWare_main.py] [!] ----------------Finished tracker process----------------[0m
+[36m[10:43:46] [SoftWare_main.py] [>] The pid of Short_Track() : 45275[0m
+[36m[10:44:41] [SoftWare_main.py] [>] ----------------Finished Tracker.t_update()----------------[0m
+[36m[10:44:41] [SoftWare_main.py] [>] ----------------Finished Tracker.t_PostProcess() datalen = 534-------[0m
+[33m[10:44:42] [SoftWare_main.py] [!] ----------------Finished C_transfer process----------------[0m
+[32m[10:44:42] [SoftWare_main.py] [-] The pid of Coordinate_transfer() : 45275[0m
+[15:09:42] [SoftWare_main.py] [INFO] The pid of mian() : 46125[0m
+[15:09:42] [SoftWare_main.py] [INFO] The thread of mian() : <_MainThread(MainThread, started 140541471725312)>[0m
+[33m[15:09:45] [SoftWare_main.py] [!] The FMLoader model has been calculated to step 679 [0m
+[33m[15:09:45] [SoftWare_main.py] [!] The Calibrate_transfer model has been calculated to step 329 [0m
+[33m[15:09:45] [SoftWare_main.py] [!] The Alphapose model has been calculated to step 0 [0m
+[33m[15:09:45] [SoftWare_main.py] [!] The SVHN_Predict model has been calculated to step 0 [0m
+[33m[15:09:45] [SoftWare_main.py] [!] ----------------Finished tracker process----------------[0m
+[36m[15:09:45] [SoftWare_main.py] [>] The pid of Short_Track() : 46125[0m
+[36m[15:10:50] [SoftWare_main.py] [>] ----------------Finished Tracker.t_update()----------------[0m
+[36m[15:10:51] [SoftWare_main.py] [>] ----------------Finished Tracker.t_PostProcess() datalen = 680-------[0m
+[33m[15:10:51] [SoftWare_main.py] [!] ----------------Finished C_transfer process----------------[0m
+[32m[15:10:51] [SoftWare_main.py] [-] The pid of Coordinate_transfer() : 46125[0m
+[15:27:25] [SoftWare_main.py] [INFO] The pid of mian() : 46874[0m
+[15:27:25] [SoftWare_main.py] [INFO] The thread of mian() : <_MainThread(MainThread, started 140648341858048)>[0m
+[33m[15:27:27] [SoftWare_main.py] [!] The FMLoader model has been calculated to step 533 [0m
+[33m[15:27:28] [SoftWare_main.py] [!] The Calibrate_transfer model has been calculated to step 533 [0m
+[33m[15:27:28] [SoftWare_main.py] [!] The Alphapose model has been calculated to step 0 [0m
+[33m[15:27:28] [SoftWare_main.py] [!] The SVHN_Predict model has been calculated to step 0 [0m
+[33m[15:27:28] [SoftWare_main.py] [!] ----------------Finished tracker process----------------[0m
+[36m[15:27:28] [SoftWare_main.py] [>] The pid of Short_Track() : 46874[0m
+[36m[15:27:53] [SoftWare_main.py] [>] ----------------Finished Tracker.t_update()----------------[0m
+[36m[15:27:54] [SoftWare_main.py] [>] ----------------Finished Tracker.t_PostProcess() datalen = 534-------[0m
+[33m[15:27:54] [SoftWare_main.py] [!] ----------------Finished C_transfer process----------------[0m
+[32m[15:27:54] [SoftWare_main.py] [-] The pid of Coordinate_transfer() : 46874[0m
+[32m[15:29:37] [SoftWare_main.py] [-] ----------------Finished transfer.t_update()----------------[0m
+[32m[15:29:41] [SoftWare_main.py] [-] ----------------Finished transfer.t_detect()----------------[0m
+[32m[15:29:42] [SoftWare_main.py] [-] ----------------Finished transfer.t_PostProcess() datalen = 534----------------[0m
+[33m[15:29:42] [SoftWare_main.py] [!] ----------------Finished P_estimate process----------------[0m
+[34m[15:29:42] [SoftWare_main.py] [+] The pid of Pose_Estimate() : 46874[0m
+[15:30:17] [SoftWare_main.py] [INFO] The pid of mian() : 47674[0m
+[15:30:17] [SoftWare_main.py] [INFO] The thread of mian() : <_MainThread(MainThread, started 140532881913600)>[0m
+[33m[15:30:19] [SoftWare_main.py] [!] The FMLoader model has been calculated to step 679 [0m
+[33m[15:30:19] [SoftWare_main.py] [!] The Calibrate_transfer model has been calculated to step 402 [0m
+[33m[15:30:19] [SoftWare_main.py] [!] The Alphapose model has been calculated to step 0 [0m
+[33m[15:30:19] [SoftWare_main.py] [!] The SVHN_Predict model has been calculated to step 0 [0m
+[33m[15:30:19] [SoftWare_main.py] [!] ----------------Finished tracker process----------------[0m
+[36m[15:30:19] [SoftWare_main.py] [>] The pid of Short_Track() : 47674[0m
+[36m[15:31:26] [SoftWare_main.py] [>] ----------------Finished Tracker.t_update()----------------[0m
+[36m[15:31:27] [SoftWare_main.py] [>] ----------------Finished Tracker.t_PostProcess() datalen = 680-------[0m
+[33m[15:31:27] [SoftWare_main.py] [!] ----------------Finished C_transfer process----------------[0m
+[32m[15:31:27] [SoftWare_main.py] [-] The pid of Coordinate_transfer() : 47674[0m
+[34m[15:32:53] [SoftWare_main.py] [+] ----------------Finished Poser.t_posing_preprocess()----------------[0m
+[34m[15:35:30] [SoftWare_main.py] [+] -------------Finished---Finished Poser.t_posing_detect()----------------[0m
+[34m[15:35:31] [SoftWare_main.py] [+] ----------------Finished Poser.t_posing_postprocess() datalen = 534----------------[0m
+[33m[15:35:31] [SoftWare_main.py] [!] ----------------Finished P_estimate process----------------[0m
+[35m[15:35:31] [SoftWare_main.py] [<] The pid of Number_Predict() : 46874[0m
+[35m[15:35:40] [SoftWare_main.py] [<] ----------------Finished N_Predictor.t_PreProcess()----------------[0m
+[35m[15:36:35] [SoftWare_main.py] [<] ----------------Finished N_Predictor.t_Predict() datalen = 534----------------[0m
+[33m[15:36:35] [SoftWare_main.py] [!] ----------------Finished Number_Predict process----------------[0m
+[31m[15:36:35] [SoftWare_main.py] [*] main function consums 0:9:11[0m

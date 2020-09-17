@@ -1,0 +1,108 @@
+[33m[15:41:34] [img_preprocess.py] [!] The pid of Calibrate_transfer.update() : 35787[0m
+[33m[15:41:34] [img_preprocess.py] [!] The pid of Calibrate_transfer.detect() : 35787[0m
+[33m[15:41:34] [img_preprocess.py] [!] The pid of Calibrate_transfer.postProcess() : 35787[0m
+[33m[15:41:34] [img_preprocess.py] [!] The thread of Calibrate_transfer.update() : <Thread(Thread-1, started daemon 140408633890560)>[0m
+[33m[15:41:34] [img_preprocess.py] [!] The thread of Calibrate_transfer.detect() : <Thread(Thread-2, started daemon 140408625497856)>[0m
+[33m[15:41:34] [img_preprocess.py] [!] The thread of Calibrate_transfer.postProcess() : <Thread(Thread-3, started daemon 140408617105152)>[0m
+[33m[15:44:03] [img_preprocess.py] [!] The pid of Calibrate_transfer.update() : 36689[0m
+[33m[15:44:03] [img_preprocess.py] [!] The pid of Calibrate_transfer.detect() : 36689[0m
+[33m[15:44:03] [img_preprocess.py] [!] The pid of Calibrate_transfer.postProcess() : 36689[0m
+[33m[15:44:03] [img_preprocess.py] [!] The thread of Calibrate_transfer.update() : <Thread(Thread-1, started daemon 140334305773312)>[0m
+[33m[15:44:03] [img_preprocess.py] [!] The thread of Calibrate_transfer.detect() : <Thread(Thread-2, started daemon 140334297380608)>[0m
+[33m[15:44:03] [img_preprocess.py] [!] The thread of Calibrate_transfer.postProcess() : <Thread(Thread-3, started daemon 140334288987904)>[0m
+[33m[15:45:23] [img_preprocess.py] [!] The pid of Calibrate_transfer.update() : 37522[0m
+[33m[15:45:23] [img_preprocess.py] [!] The pid of Calibrate_transfer.detect() : 37522[0m
+[33m[15:45:23] [img_preprocess.py] [!] The thread of Calibrate_transfer.update() : <Thread(Thread-1, started daemon 139821183072000)>[0m
+[33m[15:45:23] [img_preprocess.py] [!] The thread of Calibrate_transfer.detect() : <Thread(Thread-2, started daemon 139821174679296)>[0m
+[33m[15:45:23] [img_preprocess.py] [!] The pid of Calibrate_transfer.postProcess() : 37522[0m
+[33m[15:45:23] [img_preprocess.py] [!] The thread of Calibrate_transfer.postProcess() : <Thread(Thread-3, started daemon 139821166286592)>[0m
+[33m[15:48:35] [img_preprocess.py] [!] The pid of Calibrate_transfer.update() : 38410[0m
+[33m[15:48:35] [img_preprocess.py] [!] The pid of Calibrate_transfer.detect() : 38410[0m
+[33m[15:48:35] [img_preprocess.py] [!] The pid of Calibrate_transfer.postProcess() : 38410[0m
+[33m[15:48:35] [img_preprocess.py] [!] The thread of Calibrate_transfer.update() : <Thread(Thread-1, started daemon 140327561484032)>[0m
+[33m[15:48:35] [img_preprocess.py] [!] The thread of Calibrate_transfer.detect() : <Thread(Thread-2, started daemon 140327553091328)>[0m
+[33m[15:48:35] [img_preprocess.py] [!] The thread of Calibrate_transfer.postProcess() : <Thread(Thread-3, started daemon 140327544698624)>[0m
+[15:48:58] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 0 consums 11.885207176208496s[0m
+[15:48:58] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 0 consums 11.906573057174683s[0m
+[15:49:06] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 1 consums 10.003820300102234s[0m
+[15:49:06] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 1 consums 10.021474361419678s[0m
+[15:49:15] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 2 consums 9.57609740893046s[0m
+[15:49:15] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 2 consums 9.591307957967123s[0m
+[15:49:23] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 0 consums 24.786903858184814s[0m
+[15:49:25] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 0 consums 2.71787166595459s[0m
+[15:49:27] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 3 consums 9.444574892520905s[0m
+[15:49:27] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 3 consums 9.462003469467163s[0m
+[15:49:39] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 1 consums 20.70435893535614s[0m
+[15:49:40] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 4 consums 9.326472520828247s[0m
+[15:49:40] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 4 consums 9.345140552520752s[0m
+[15:49:41] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 1 consums 2.038516044616699s[0m
+[15:49:51] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 5 consums 8.969113985697428s[0m
+[15:49:51] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 5 consums 8.987411856651306s[0m
+[15:49:56] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 2 consums 19.31249777475993s[0m
+[15:49:57] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 2 consums 1.7148292064666748s[0m
+[15:50:02] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 6 consums 8.703698771340507s[0m
+[15:50:02] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 6 consums 8.721537555967059s[0m
+[15:50:16] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 7 consums 8.639029026031494s[0m
+[15:50:16] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 7 consums 8.658883690834045s[0m
+[15:50:18] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 3 consums 19.94361186027527s[0m
+[15:50:20] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 3 consums 1.7304033637046814s[0m
+[15:50:27] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 8 consums 8.469535032908121s[0m
+[15:50:27] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 8 consums 8.48899899588691s[0m
+[15:50:37] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 4 consums 19.718898916244505s[0m
+[15:50:38] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 4 consums 1.7097875595092773s[0m
+[15:50:40] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 9 consums 8.36284523010254s[0m
+[15:50:40] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 9 consums 8.382427525520324s[0m
+[15:50:51] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 10 consums 8.205957434394143s[0m
+[15:50:51] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 10 consums 8.225752093575217s[0m
+[15:51:01] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 5 consums 20.444833636283875s[0m
+[15:51:03] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 5 consums 1.7539863586425781s[0m
+[15:51:04] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 11 consums 8.151883780956268s[0m
+[15:51:04] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 11 consums 8.17226630449295s[0m
+[15:51:16] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 12 consums 8.072865284406221s[0m
+[15:51:16] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 12 consums 8.092945172236515s[0m
+[15:51:19] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 6 consums 20.111239399228776s[0m
+[15:51:20] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 6 consums 1.6781835556030273s[0m
+[15:51:27] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 13 consums 7.963929619107928s[0m
+[15:51:27] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 13 consums 7.983113374028887s[0m
+[15:51:38] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 7 consums 20.02201747894287s[0m
+[15:51:39] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 7 consums 1.5867142081260681s[0m
+[15:51:40] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 14 consums 7.8741745789845785s[0m
+[15:51:40] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 14 consums 7.893265358606974s[0m
+[15:51:52] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 15 consums 7.802645713090897s[0m
+[15:51:52] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 15 consums 7.82094044983387s[0m
+[15:51:58] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 8 consums 19.962322764926487s[0m
+[15:51:59] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 8 consums 1.5379592842525907s[0m
+[15:52:04] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 16 consums 7.747045979780309s[0m
+[15:52:04] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 16 consums 7.765058321111343s[0m
+[15:52:14] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 9 consums 19.652590131759645s[0m
+[15:52:16] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 17 consums 7.676005787319607s[0m
+[15:52:16] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 17 consums 7.693635092841254s[0m
+[15:52:17] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 9 consums 1.6417115211486817s[0m
+[15:52:28] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 18 consums 7.587743558381733s[0m
+[15:52:28] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 18 consums 7.605384650983308s[0m
+[15:52:32] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 10 consums 19.41849797422236s[0m
+[15:52:34] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 10 consums 1.7032259160822087s[0m
+[15:52:41] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 19 consums 7.519291603565216s[0m
+[15:52:41] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 19 consums 7.537038004398346s[0m
+[15:52:47] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 11 consums 19.06978491942088s[0m
+[15:52:49] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 11 consums 1.7083227435747783s[0m
+[15:52:54] [img_preprocess.py] [INFO] Calibrate_transfer.sub_img_generate() action 20 consums 7.517026401701427s[0m
+[15:52:54] [img_preprocess.py] [INFO] Calibrate_transfer.update() action 20 consums 7.534584658486502s[0m
+[15:53:10] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 12 consums 19.370286226272583s[0m
+[15:53:12] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 12 consums 1.7637654084425707s[0m
+[15:53:18] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 13 consums 18.58904470716204s[0m
+[15:53:19] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 13 consums 1.6760964393615723s[0m
+[15:53:32] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 14 consums 18.26922804514567s[0m
+[15:53:33] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 14 consums 1.6473629951477051s[0m
+[15:53:37] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 15 consums 17.465088427066803s[0m
+[15:53:38] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 15 consums 1.5813503712415695s[0m
+[15:53:49] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 16 consums 17.12627917177537s[0m
+[15:53:51] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 16 consums 1.5836331844329834s[0m
+[15:53:55] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 17 consums 16.486471997367012s[0m
+[15:53:56] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 17 consums 1.5475270350774128s[0m
+[15:54:10] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 18 consums 16.44581257669549s[0m
+[15:54:12] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 18 consums 1.5656854102486057s[0m
+[15:54:27] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 19 consums 16.426521635055543s[0m
+[15:54:28] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 19 consums 1.5796045899391173s[0m
+[15:54:36] [img_preprocess.py] [INFO] Calibrate_transfer.detect() action 20 consums 16.0748066788628s[0m
+[15:54:36] [img_preprocess.py] [INFO] Calibrate_transfer.postProcess() action 20 consums 1.5438198135012673s[0m

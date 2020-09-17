@@ -1,0 +1,138 @@
+!!python/object/new:easydict.EasyDict
+dictitems:
+  DATASET: &id010 !!python/object/new:easydict.EasyDict
+    dictitems:
+      TEST: &id002 !!python/object/new:easydict.EasyDict
+        dictitems:
+          ANN: annotations/person_keypoints_val2017.json
+          DET_FILE: ./exp/json/test_det_yolo.json
+          IMG_PREFIX: val2017
+          ROOT: ./data/coco/
+          TYPE: Mscoco_det
+        state:
+          ANN: annotations/person_keypoints_val2017.json
+          DET_FILE: ./exp/json/test_det_yolo.json
+          IMG_PREFIX: val2017
+          ROOT: ./data/coco/
+          TYPE: Mscoco_det
+      TRAIN: &id003 !!python/object/new:easydict.EasyDict
+        dictitems:
+          ANN: annotations/person_keypoints_train2017.json
+          AUG: &id001 !!python/object/new:easydict.EasyDict
+            dictitems:
+              FLIP: true
+              NUM_JOINTS_HALF_BODY: 8
+              PROB_HALF_BODY: -1
+              ROT_FACTOR: 40
+              SCALE_FACTOR: 0.3
+            state:
+              FLIP: true
+              NUM_JOINTS_HALF_BODY: 8
+              PROB_HALF_BODY: -1
+              ROT_FACTOR: 40
+              SCALE_FACTOR: 0.3
+          IMG_PREFIX: train2017
+          ROOT: ./data/coco/
+          TYPE: Mscoco
+        state:
+          ANN: annotations/person_keypoints_train2017.json
+          AUG: *id001
+          IMG_PREFIX: train2017
+          ROOT: ./data/coco/
+          TYPE: Mscoco
+      VAL: &id004 !!python/object/new:easydict.EasyDict
+        dictitems:
+          ANN: annotations/person_keypoints_val2017.json
+          IMG_PREFIX: val2017
+          ROOT: ./data/coco/
+          TYPE: Mscoco
+        state:
+          ANN: annotations/person_keypoints_val2017.json
+          IMG_PREFIX: val2017
+          ROOT: ./data/coco/
+          TYPE: Mscoco
+    state:
+      TEST: *id002
+      TRAIN: *id003
+      VAL: *id004
+  DATA_PRESET: &id011 !!python/object/new:easydict.EasyDict
+    dictitems:
+      HEATMAP_SIZE: &id005
+      - 64
+      - 48
+      IMAGE_SIZE: &id006
+      - 256
+      - 192
+      NUM_JOINTS: 17
+      SIGMA: 2
+      TYPE: simple
+    state:
+      HEATMAP_SIZE: *id005
+      IMAGE_SIZE: *id006
+      NUM_JOINTS: 17
+      SIGMA: 2
+      TYPE: simple
+  DETECTOR: &id012 !!python/object/new:easydict.EasyDict
+    dictitems:
+      CONFIDENCE: 0.1
+      CONFIG: detector/yolo/cfg/yolov3-spp.cfg
+      NAME: yolo
+      NMS_THRES: 0.6
+      WEIGHTS: detector/yolo/data/yolov3-spp.weights
+    state:
+      CONFIDENCE: 0.1
+      CONFIG: detector/yolo/cfg/yolov3-spp.cfg
+      NAME: yolo
+      NMS_THRES: 0.6
+      WEIGHTS: detector/yolo/data/yolov3-spp.weights
+  MODEL: &id013 !!python/object/new:easydict.EasyDict
+    dictitems:
+      NUM_DECONV_FILTERS: &id007
+      - 256
+      - 256
+      - 256
+      NUM_LAYERS: 50
+      PRETRAINED: ''
+      TRY_LOAD: ''
+      TYPE: SimplePose
+      checkpoint: /datanew/hwb/AlphaPose-master/pretrained_models/simple_res50_256x192.pth
+    state:
+      NUM_DECONV_FILTERS: *id007
+      NUM_LAYERS: 50
+      PRETRAINED: ''
+      TRY_LOAD: ''
+      TYPE: SimplePose
+      checkpoint: /datanew/hwb/AlphaPose-master/pretrained_models/simple_res50_256x192.pth
+  TRAIN: &id014 !!python/object/new:easydict.EasyDict
+    dictitems:
+      BATCH_SIZE: 32
+      BEGIN_EPOCH: 0
+      DPG_MILESTONE: 140
+      DPG_STEP: &id008
+      - 160
+      - 190
+      END_EPOCH: 200
+      LR: 0.001
+      LR_FACTOR: 0.1
+      LR_STEP: &id009
+      - 90
+      - 120
+      OPTIMIZER: adam
+      WORLD_SIZE: 4
+    state:
+      BATCH_SIZE: 32
+      BEGIN_EPOCH: 0
+      DPG_MILESTONE: 140
+      DPG_STEP: *id008
+      END_EPOCH: 200
+      LR: 0.001
+      LR_FACTOR: 0.1
+      LR_STEP: *id009
+      OPTIMIZER: adam
+      WORLD_SIZE: 4
+state:
+  DATASET: *id010
+  DATA_PRESET: *id011
+  DETECTOR: *id012
+  MODEL: *id013
+  TRAIN: *id014

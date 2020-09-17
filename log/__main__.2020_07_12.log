@@ -1,0 +1,8 @@
+[33m[10:58:37] [SoftWare_main.py] [!] The pid of mian() : 17911[0m
+[33m[10:58:37] [SoftWare_main.py] [!] The thread of mian() : <_MainThread(MainThread, started 140139893012224)>[0m
+[33m[11:22:38] [SoftWare_main.py] [!] The pid of mian() : 19616[0m
+[33m[11:22:38] [SoftWare_main.py] [!] The thread of mian() : <_MainThread(MainThread, started 140678754043648)>[0m
+[33m[11:23:29] [SoftWare_main.py] [!] The pid of mian() : 20427[0m
+[33m[11:23:29] [SoftWare_main.py] [!] The thread of mian() : <_MainThread(MainThread, started 140182513456896)>[0m
+[11:58:06] [SoftWare_main.py] [INFO] The pid of mian() : 22323[0m
+[11:58:06] [SoftWare_main.py] [INFO] The thread of mian() : <_MainThread(MainThread, started 140581078738688)>[0m

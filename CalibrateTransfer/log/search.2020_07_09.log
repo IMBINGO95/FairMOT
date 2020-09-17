@@ -1,0 +1,162 @@
+[13:37:03] [img_preprocess.py->update line:94] [INFO] The pid of Calibrate_transfer.update() : 28894[0m
+[31m[13:37:03] [img_preprocess.py->detect line:171] [*] The pid of Calibrate_transfer.detect() : 28894[0m
+[13:37:03] [img_preprocess.py->update line:95] [INFO] The thread of Calibrate_transfer.update() : <Thread(Thread-1, started daemon 140693174028032)>[0m
+[31m[13:37:03] [img_preprocess.py->postProcess line:212] [*] The pid of Calibrate_transfer.postProcess() : 28894[0m
+[31m[13:37:03] [img_preprocess.py->detect line:172] [*] The thread of Calibrate_transfer.detect() : <Thread(Thread-2, started daemon 140693165635328)>[0m
+[13:37:03] [img_preprocess.py->update line:99] [INFO] ======================================== action 0[0m
+[31m[13:37:03] [img_preprocess.py->postProcess line:213] [*] The thread of Calibrate_transfer.postProcess() : <Thread(Thread-3, started daemon 140693157242624)>[0m
+[13:37:03] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 0 has been read [0m
+[13:37:03] [img_preprocess.py->postProcess line:217] [INFO] postProcess ------------action 0 has been read [0m
+[13:38:27] [img_preprocess.py->update line:94] [INFO] The pid of Calibrate_transfer.update() : 29463[0m
+[31m[13:38:27] [img_preprocess.py->detect line:171] [*] The pid of Calibrate_transfer.detect() : 29463[0m
+[13:38:27] [img_preprocess.py->update line:95] [INFO] The thread of Calibrate_transfer.update() : <Thread(Thread-1, started daemon 140230675576576)>[0m
+[31m[13:38:27] [img_preprocess.py->postProcess line:212] [*] The pid of Calibrate_transfer.postProcess() : 29463[0m
+[31m[13:38:27] [img_preprocess.py->detect line:172] [*] The thread of Calibrate_transfer.detect() : <Thread(Thread-2, started daemon 140230667183872)>[0m
+[13:38:27] [img_preprocess.py->update line:99] [INFO] ======================================== action 0[0m
+[31m[13:38:27] [img_preprocess.py->postProcess line:213] [*] The thread of Calibrate_transfer.postProcess() : <Thread(Thread-3, started daemon 140230658791168)>[0m
+[13:38:27] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 0 has been read [0m
+[13:38:27] [img_preprocess.py->postProcess line:217] [INFO] postProcess ------------action 0 has been read [0m
+[13:38:53] [img_preprocess.py->update line:94] [INFO] The pid of Calibrate_transfer.update() : 30001[0m
+[31m[13:38:53] [img_preprocess.py->postProcess line:212] [*] The pid of Calibrate_transfer.postProcess() : 30001[0m
+[31m[13:38:53] [img_preprocess.py->detect line:171] [*] The pid of Calibrate_transfer.detect() : 30001[0m
+[13:38:53] [img_preprocess.py->update line:95] [INFO] The thread of Calibrate_transfer.update() : <Thread(Thread-6, started daemon 140583069120256)>[0m
+[31m[13:38:53] [img_preprocess.py->postProcess line:213] [*] The thread of Calibrate_transfer.postProcess() : <Thread(Thread-10, started daemon 140583052334848)>[0m
+[31m[13:38:53] [img_preprocess.py->detect line:172] [*] The thread of Calibrate_transfer.detect() : <Thread(Thread-8, started daemon 140583060727552)>[0m
+[13:38:53] [img_preprocess.py->update line:99] [INFO] ======================================== action 0[0m
+[13:38:53] [img_preprocess.py->postProcess line:217] [INFO] postProcess ------------action 0 has been read [0m
+[13:38:53] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 0 has been read [0m
+[13:40:10] [img_preprocess.py->update line:94] [INFO] The pid of Calibrate_transfer.update() : 30575[0m
+[31m[13:40:10] [img_preprocess.py->detect line:171] [*] The pid of Calibrate_transfer.detect() : 30575[0m
+[13:40:10] [img_preprocess.py->update line:95] [INFO] The thread of Calibrate_transfer.update() : <Thread(Thread-6, started daemon 139982151108352)>[0m
+[31m[13:40:10] [img_preprocess.py->postProcess line:212] [*] The pid of Calibrate_transfer.postProcess() : 30575[0m
+[31m[13:40:10] [img_preprocess.py->detect line:172] [*] The thread of Calibrate_transfer.detect() : <Thread(Thread-8, started daemon 139982142715648)>[0m
+[13:40:10] [img_preprocess.py->update line:99] [INFO] ======================================== action 0[0m
+[31m[13:40:10] [img_preprocess.py->postProcess line:213] [*] The thread of Calibrate_transfer.postProcess() : <Thread(Thread-10, started daemon 139982134322944)>[0m
+[13:40:10] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 0 has been read [0m
+[13:40:10] [img_preprocess.py->postProcess line:217] [INFO] postProcess ------------action 0 has been read [0m
+[13:40:49] [img_preprocess.py->update line:99] [INFO] ======================================== action 1[0m
+[13:40:52] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 0 has been detected [0m
+[13:40:52] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 1 has been read [0m
+[13:41:02] [img_preprocess.py->update line:99] [INFO] ======================================== action 2[0m
+[13:41:04] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 1 has been detected [0m
+[13:41:04] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 2 has been read [0m
+[13:41:16] [img_preprocess.py->update line:99] [INFO] ======================================== action 3[0m
+[13:41:18] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 2 has been detected [0m
+[13:41:18] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 3 has been read [0m
+[13:41:26] [img_preprocess.py->update line:99] [INFO] ======================================== action 4[0m
+[13:41:29] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 3 has been detected [0m
+[13:41:29] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 4 has been read [0m
+[13:41:42] [img_preprocess.py->update line:99] [INFO] ======================================== action 5[0m
+[13:41:46] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 4 has been detected [0m
+[13:41:46] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 5 has been read [0m
+[13:42:00] [img_preprocess.py->update line:99] [INFO] ======================================== action 6[0m
+[13:42:03] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 5 has been detected [0m
+[13:42:03] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 6 has been read [0m
+[13:42:22] [img_preprocess.py->update line:94] [INFO] The pid of Calibrate_transfer.update() : 31219[0m
+[31m[13:42:22] [img_preprocess.py->detect line:171] [*] The pid of Calibrate_transfer.detect() : 31219[0m
+[13:42:22] [img_preprocess.py->update line:95] [INFO] The thread of Calibrate_transfer.update() : <Thread(Thread-6, started daemon 139829109327616)>[0m
+[31m[13:42:22] [img_preprocess.py->detect line:172] [*] The thread of Calibrate_transfer.detect() : <Thread(Thread-8, started daemon 139829100934912)>[0m
+[31m[13:42:22] [img_preprocess.py->postProcess line:212] [*] The pid of Calibrate_transfer.postProcess() : 31219[0m
+[13:42:22] [img_preprocess.py->update line:99] [INFO] ======================================== action 0[0m
+[13:42:22] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 0 has been read [0m
+[31m[13:42:22] [img_preprocess.py->postProcess line:213] [*] The thread of Calibrate_transfer.postProcess() : <Thread(Thread-10, started daemon 139829092542208)>[0m
+[13:42:22] [img_preprocess.py->postProcess line:217] [INFO] postProcess ------------action 0 has been read [0m
+[13:42:47] [img_preprocess.py->update line:99] [INFO] ======================================== action 1[0m
+[13:42:51] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 0 has been detected [0m
+[13:42:51] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 1 has been read [0m
+[13:43:00] [img_preprocess.py->update line:99] [INFO] ======================================== action 2[0m
+[16:19:17] [img_preprocess.py->update line:94] [INFO] The pid of Calibrate_transfer.update() : 35692[0m
+[31m[16:19:17] [img_preprocess.py->detect line:171] [*] The pid of Calibrate_transfer.detect() : 35692[0m
+[31m[16:19:17] [img_preprocess.py->postProcess line:212] [*] The pid of Calibrate_transfer.postProcess() : 35692[0m
+[16:19:17] [img_preprocess.py->update line:95] [INFO] The thread of Calibrate_transfer.update() : <Thread(Thread-1, started daemon 139809815545600)>[0m
+[31m[16:19:17] [img_preprocess.py->detect line:172] [*] The thread of Calibrate_transfer.detect() : <Thread(Thread-2, started daemon 139809807152896)>[0m
+[31m[16:19:17] [img_preprocess.py->postProcess line:213] [*] The thread of Calibrate_transfer.postProcess() : <Thread(Thread-3, started daemon 139809798760192)>[0m
+[16:19:17] [img_preprocess.py->update line:99] [INFO] ======================================== action 0[0m
+[16:19:17] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 0 has been read [0m
+[16:19:17] [img_preprocess.py->postProcess line:217] [INFO] postProcess ------------action 0 has been read [0m
+[16:19:41] [img_preprocess.py->update line:99] [INFO] ======================================== action 1[0m
+[16:19:46] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 0 has been detected [0m
+[16:19:46] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 1 has been read [0m
+[16:19:46] [img_preprocess.py->postProcess line:257] [INFO] postProcess ------------action 0 has been postProcessed [0m
+[16:19:46] [img_preprocess.py->postProcess line:217] [INFO] postProcess ------------action 1 has been read [0m
+[16:19:54] [img_preprocess.py->update line:99] [INFO] ======================================== action 2[0m
+[16:19:56] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 1 has been detected [0m
+[16:19:56] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 2 has been read [0m
+[16:20:09] [img_preprocess.py->update line:99] [INFO] ======================================== action 3[0m
+[16:20:11] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 2 has been detected [0m
+[16:20:11] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 3 has been read [0m
+[16:20:19] [img_preprocess.py->update line:99] [INFO] ======================================== action 4[0m
+[16:20:21] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 3 has been detected [0m
+[16:20:21] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 4 has been read [0m
+[16:20:38] [img_preprocess.py->update line:94] [INFO] The pid of Calibrate_transfer.update() : 36247[0m
+[16:20:38] [img_preprocess.py->update line:95] [INFO] The thread of Calibrate_transfer.update() : <Thread(Thread-6, started daemon 139938343790336)>[0m
+[16:20:38] [img_preprocess.py->update line:99] [INFO] ======================================== action 0[0m
+[31m[16:20:38] [img_preprocess.py->detect line:171] [*] The pid of Calibrate_transfer.detect() : 36247[0m
+[31m[16:20:38] [img_preprocess.py->detect line:172] [*] The thread of Calibrate_transfer.detect() : <Thread(Thread-8, started daemon 139938335397632)>[0m
+[16:20:38] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 0 has been read [0m
+[31m[16:20:38] [img_preprocess.py->postProcess line:212] [*] The pid of Calibrate_transfer.postProcess() : 36247[0m
+[31m[16:20:38] [img_preprocess.py->postProcess line:213] [*] The thread of Calibrate_transfer.postProcess() : <Thread(Thread-10, started daemon 139938327004928)>[0m
+[16:20:38] [img_preprocess.py->postProcess line:217] [INFO] postProcess ------------action 0 has been read [0m
+[16:21:02] [img_preprocess.py->update line:99] [INFO] ======================================== action 1[0m
+[16:21:06] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 0 has been detected [0m
+[16:21:06] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 1 has been read [0m
+[16:21:15] [img_preprocess.py->update line:99] [INFO] ======================================== action 2[0m
+[16:21:17] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 1 has been detected [0m
+[16:21:17] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 2 has been read [0m
+[16:21:29] [img_preprocess.py->update line:99] [INFO] ======================================== action 3[0m
+[16:21:31] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 2 has been detected [0m
+[16:21:31] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 3 has been read [0m
+[16:21:40] [img_preprocess.py->update line:99] [INFO] ======================================== action 4[0m
+[16:21:42] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 3 has been detected [0m
+[16:21:42] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 4 has been read [0m
+[16:21:57] [img_preprocess.py->update line:99] [INFO] ======================================== action 5[0m
+[16:22:01] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 4 has been detected [0m
+[16:22:01] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 5 has been read [0m
+[16:22:15] [img_preprocess.py->update line:99] [INFO] ======================================== action 6[0m
+[16:22:18] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 5 has been detected [0m
+[16:22:18] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 6 has been read [0m
+[16:22:33] [img_preprocess.py->update line:99] [INFO] ======================================== action 7[0m
+[16:22:35] [img_preprocess.py->postProcess line:257] [INFO] postProcess ------------action 0 has been postProcessed [0m
+[16:22:35] [img_preprocess.py->postProcess line:217] [INFO] postProcess ------------action 1 has been read [0m
+[16:22:47] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 6 has been detected [0m
+[16:22:47] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 7 has been read [0m
+[16:22:49] [img_preprocess.py->update line:99] [INFO] ======================================== action 8[0m
+[16:22:51] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 7 has been detected [0m
+[16:22:51] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 8 has been read [0m
+[16:24:49] [img_preprocess.py->update line:94] [INFO] The pid of Calibrate_transfer.update() : 36919[0m
+[31m[16:24:49] [img_preprocess.py->detect line:171] [*] The pid of Calibrate_transfer.detect() : 36919[0m
+[16:24:49] [img_preprocess.py->update line:95] [INFO] The thread of Calibrate_transfer.update() : <Thread(Thread-1, started daemon 139878988097280)>[0m
+[31m[16:24:49] [img_preprocess.py->postProcess line:212] [*] The pid of Calibrate_transfer.postProcess() : 36919[0m
+[31m[16:24:49] [img_preprocess.py->detect line:172] [*] The thread of Calibrate_transfer.detect() : <Thread(Thread-2, started daemon 139878979704576)>[0m
+[16:24:49] [img_preprocess.py->update line:99] [INFO] ======================================== action 0[0m
+[31m[16:24:49] [img_preprocess.py->postProcess line:213] [*] The thread of Calibrate_transfer.postProcess() : <Thread(Thread-3, started daemon 139878971311872)>[0m
+[16:24:49] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 0 has been read [0m
+[16:24:49] [img_preprocess.py->postProcess line:217] [INFO] postProcess ------------action 0 has been read [0m
+[16:25:13] [img_preprocess.py->update line:99] [INFO] ======================================== action 1[0m
+[16:25:16] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 0 has been detected [0m
+[16:25:16] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 1 has been read [0m
+[16:25:16] [img_preprocess.py->postProcess line:258] [INFO] postProcess ------------action 0 has been postProcessed [0m
+[16:25:16] [img_preprocess.py->postProcess line:217] [INFO] postProcess ------------action 1 has been read [0m
+[16:25:25] [img_preprocess.py->update line:99] [INFO] ======================================== action 2[0m
+[16:25:27] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 1 has been detected [0m
+[16:25:27] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 2 has been read [0m
+[16:25:38] [img_preprocess.py->update line:99] [INFO] ======================================== action 3[0m
+[16:25:40] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 2 has been detected [0m
+[16:25:40] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 3 has been read [0m
+[16:29:30] [img_preprocess.py->update line:94] [INFO] The pid of Calibrate_transfer.update() : 37531[0m
+[16:29:30] [img_preprocess.py->update line:95] [INFO] The thread of Calibrate_transfer.update() : <Thread(Thread-1, started daemon 140599426897664)>[0m
+[31m[16:29:30] [img_preprocess.py->detect line:171] [*] The pid of Calibrate_transfer.detect() : 37531[0m
+[16:29:30] [img_preprocess.py->update line:99] [INFO] ======================================== action 0[0m
+[31m[16:29:30] [img_preprocess.py->detect line:172] [*] The thread of Calibrate_transfer.detect() : <Thread(Thread-2, started daemon 140599418504960)>[0m
+[31m[16:29:30] [img_preprocess.py->postProcess line:212] [*] The pid of Calibrate_transfer.postProcess() : 37531[0m
+[16:29:30] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 0 has been read [0m
+[31m[16:29:30] [img_preprocess.py->postProcess line:213] [*] The thread of Calibrate_transfer.postProcess() : <Thread(Thread-3, started daemon 140599410112256)>[0m
+[16:29:30] [img_preprocess.py->postProcess line:217] [INFO] postProcess ------------action 0 has been read [0m
+[16:29:52] [img_preprocess.py->update line:99] [INFO] ======================================== action 1[0m
+[16:29:56] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 0 has been detected [0m
+[16:29:56] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 1 has been read [0m
+[16:29:56] [img_preprocess.py->postProcess line:260] [INFO] postProcess ------------action 0 has been postProcessed [0m
+[16:29:56] [img_preprocess.py->postProcess line:217] [INFO] postProcess ------------action 1 has been read [0m
+[16:30:06] [img_preprocess.py->update line:99] [INFO] ======================================== action 2[0m
+[16:30:08] [img_preprocess.py->detect line:195] [INFO] Detection ------------action 1 has been detected [0m
+[16:30:08] [img_preprocess.py->detect line:176] [INFO] Detection ------------action 2 has been read [0m

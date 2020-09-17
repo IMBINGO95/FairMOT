@@ -1,0 +1,33 @@
+[11:45:58] [log.py] [INFO] ----------------------------------------------------------------------------------[0m
+[11:45:58] [log.py] [INFO] Epoch = 1,  loss = 1[0m
+[11:51:33] [log.py] [INFO] ----------------------------------------------------------------------------------[0m
+[11:51:33] [log.py] [INFO] Epoch = 1,  loss = 1[0m
+[11:51:33] [log.py] [Level 26] on train set correct[0m
+[11:51:50] [log.py] [INFO] ----------------------------------------------------------------------------------[0m
+[11:51:50] [log.py] [INFO] Epoch = 1,  loss = 1[0m
+[35m[11:51:50] [log.py] [<] on train set correct[0m
+[11:52:23] [log.py] [INFO] ----------------------------------------------------------------------------------[0m
+[11:52:23] [log.py] [INFO] Epoch = 1,  loss = 1[0m
+[36m[11:52:23] [log.py] [>] on train set correct[0m
+[32m[11:52:23] [log.py] [-] on train set correct[0m
+[34m[11:52:23] [log.py] [+] on train set correct[0m
+[35m[11:52:23] [log.py] [<] on train set correct[0m
+[33m[11:52:23] [log.py] [!] on train set correct[0m
+[31m[11:52:23] [log.py] [*] on train set correct[0m
+[11:53:19] [log.py] [INFO] ----------------------------------------------------------------------------------[0m
+[11:53:19] [log.py] [INFO] Epoch = 1,  loss = 1[0m
+[36m[11:53:19] [log.py] [>] on train set correct[0m
+[32m[11:53:19] [log.py] [-] on train set correct[0m
+[34m[11:53:19] [log.py] [+] on train set correct[0m
+[35m[11:53:19] [log.py] [<] on train set correct[0m
+[37m[11:53:19] [log.py] [/] on train set correct[0m
+[31m[11:53:19] [log.py] [*] on train set correct[0m
+[11:53:50] [log.py] [INFO] ----------------------------------------------------------------------------------[0m
+[11:53:50] [log.py] [INFO] Epoch = 1,  loss = 1[0m
+[36m[11:53:50] [log.py] [>] on train set correct[0m
+[32m[11:53:50] [log.py] [-] on train set correct[0m
+[34m[11:53:50] [log.py] [+] on train set correct[0m
+[35m[11:53:50] [log.py] [<] on train set correct[0m
+[33m[11:53:50] [log.py] [!] on train set correct[0m
+[37m[11:53:50] [log.py] [/] on train set correct[0m
+[31m[11:53:50] [log.py] [*] on train set correct[0m

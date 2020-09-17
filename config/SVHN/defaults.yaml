@@ -1,0 +1,57 @@
+dataset:
+  CLASSES:
+  - __background__
+  - region
+  anno_path: Annotations
+  img_path: JPEGImages
+  log_dir: Number_predict_weights
+  root: /datanew/hwb/data/WG_Num/SVHN
+eval_cfg:
+  batch_size: 128
+  checkpoint: /datanew/hwb/data/WG_Num/Negative/Number_predict_weights/model-541000.tar
+  cuda: true
+  mode: test
+  pretrained: true
+  step: 5000
+loss:
+  bkg_label: 0
+  encode_target: false
+  neg_mining: true
+  neg_overlap: 0.5
+  neg_pos: 3
+  overlap_thresh: 0.5
+  prior_for_matching: true
+model:
+  crop_type: true
+  init_net: true
+  input_size: 320
+  label_type: both
+  pretrained: None
+  rgb_means:
+  - 104
+  - 117
+  - 123
+optimizer:
+  momentum: 0.9
+  type: SGD
+  weight_decay: 0.0005
+os: !!python/module:os ''
+test_cfg:
+  batch_size: 128
+  checkpoint: /datanew/hwb/data/WG_Num/Negative/Number_predict_weights/model-541000.tar
+  cuda: true
+  mode: test
+  pretrained: true
+  step: 755000
+train_cfg:
+  batch_size: 128
+  checkpoint: /datanew/hwb/data/WG_Num/SVHN/Number_predict_weights/model-696000.tar
+  cuda: true
+  decay_rate: 0.9
+  decay_steps: 10000
+  learning_rate: 0.01
+  mode: train
+  patience: 100
+  pretrained: true
+  step: 696000
+  warmup: 5
