@@ -228,7 +228,6 @@ class JDETracker(object):
         self.max_per_image = self.opt.K
         self.kalman_filter = KalmanFilter()
 
-
     def post_process(self, dets, meta):
         dets = dets.detach().cpu().numpy()
         dets = dets.reshape(1, -1, dets.shape[2])

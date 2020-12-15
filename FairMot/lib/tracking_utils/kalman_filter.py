@@ -38,12 +38,12 @@ class KalmanFilter(object):
 
     def __init__(self):
         ndim, dt = 4, 1.
-
+        # X_K = A * X_K-1 + B * U_K-1
         # Create Kalman filter model matrices.
-        self._motion_mat = np.eye(2 * ndim, 2 * ndim)
+        self._motion_mat = np.eye(2 * ndim, 2 * ndim) # constant velocity model  8*8
         for i in range(ndim):
-            self._motion_mat[i, ndim + i] = dt
-        self._update_mat = np.eye(ndim, 2 * ndim)
+            self._motion_mat[i, ndim + i] = dt # 加上 v * delta_t
+        self._update_mat = np.eye(ndim, 2 * ndim) # 更新操作 # 4*8
 
         # Motion and observation uncertainty are chosen relative to the current
         # state estimate. These weights control the amount of uncertainty in
