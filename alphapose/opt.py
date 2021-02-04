@@ -9,7 +9,7 @@ from types import MethodType
 
 import torch
 
-from .utils.config import update_config
+from utils.config import update_config
 
 parser = argparse.ArgumentParser(description='AlphaPose Training')
 
@@ -17,7 +17,7 @@ parser = argparse.ArgumentParser(description='AlphaPose Training')
 parser.add_argument('--cfg',
                     help='experiment configure file name',
                     type=str,
-                    default='/datanew/hwb/AlphaPose-master/configs/coco/resnet/defaults.yaml',
+                    default='/datanew/hwb/FairMOT-master/config/alphapose/defaults.yaml',
                     )
 parser.add_argument('--exp-id', default='alphapose', type=str,
                     help='Experiment ID')

@@ -212,7 +212,6 @@ if __name__ == "__main__":
     from Write_Config import readyaml
     from easydict import EasyDict as edict
 
-
     opt = OPT_setting().init()
 
     Tracker_opt = edict(readyaml(opt.FairMotCfg))
